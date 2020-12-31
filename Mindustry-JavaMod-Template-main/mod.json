@@ -1,0 +1,9 @@
+{
+  "name": "My Firt Java Mod Test",
+  "displayName": "AshesKaiser's First Java Mod",
+  "author": "AshesKaiser",
+  "main": "JMTemplate.core.Main",
+  "description": "A jar mod.",
+  "version": 1,
+  "minGameVersion": 121
+}
